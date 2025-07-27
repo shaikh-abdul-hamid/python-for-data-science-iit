@@ -1,0 +1,307 @@
+ID,innings,overs,ballnumber,batter,bowler,non-striker,extra_type,batsman_run,extras_run,total_run,non_boundary,isWicketDelivery,player_out,kind,fielders_involved,BattingTeam
+1304049,1,7,2,V Kohli,Harpreet Brar,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,7,4,V Kohli,Harpreet Brar,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304049,1,7,5,V Kohli,Harpreet Brar,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,8,1,V Kohli,RD Chahar,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,9,1,V Kohli,Harpreet Brar,F du Plessis,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304049,1,9,2,V Kohli,Harpreet Brar,F du Plessis,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304049,1,9,3,V Kohli,Harpreet Brar,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304049,1,9,4,V Kohli,Harpreet Brar,F du Plessis,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1304049,1,9,5,V Kohli,Harpreet Brar,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,9,7,V Kohli,Harpreet Brar,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304049,1,10,2,V Kohli,RD Chahar,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,10,5,V Kohli,RD Chahar,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,11,1,V Kohli,LS Livingstone,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304049,1,11,2,V Kohli,LS Livingstone,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,12,1,V Kohli,OF Smith,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304049,1,12,2,V Kohli,OF Smith,F du Plessis,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,12,3,V Kohli,OF Smith,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,13,4,V Kohli,Harpreet Brar,F du Plessis,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304049,1,13,5,V Kohli,Harpreet Brar,F du Plessis,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1304049,1,13,6,V Kohli,Harpreet Brar,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304049,1,14,2,V Kohli,RD Chahar,F du Plessis,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,14,3,V Kohli,RD Chahar,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,14,6,V Kohli,RD Chahar,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,15,2,V Kohli,Arshdeep Singh,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,15,5,V Kohli,Arshdeep Singh,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,16,1,V Kohli,Sandeep Sharma,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,16,4,V Kohli,Sandeep Sharma,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,16,6,V Kohli,Sandeep Sharma,F du Plessis,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304049,1,17,3,V Kohli,Arshdeep Singh,KD Karthik,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,18,4,V Kohli,OF Smith,KD Karthik,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304049,1,19,1,V Kohli,Sandeep Sharma,KD Karthik,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304052,2,0,4,V Kohli,UT Yadav,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304052,2,0,5,V Kohli,UT Yadav,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304052,2,0,6,V Kohli,UT Yadav,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304052,2,1,1,V Kohli,TG Southee,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304052,2,1,2,V Kohli,TG Southee,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304052,2,1,3,V Kohli,TG Southee,F du Plessis,,3,0,3,0,0,,,,Royal Challengers Bangalore
+1304052,2,2,1,V Kohli,UT Yadav,DJ Willey,,0,0,0,0,1,V Kohli,caught,SP Jackson,Royal Challengers Bangalore
+1304059,2,7,2,V Kohli,Navdeep Saini,Anuj Rawat,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304059,2,7,3,V Kohli,Navdeep Saini,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304059,2,7,5,V Kohli,Navdeep Saini,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304059,2,8,1,V Kohli,YS Chahal,DJ Willey,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304059,2,8,2,V Kohli,YS Chahal,DJ Willey,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304059,2,8,3,V Kohli,YS Chahal,DJ Willey,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,8,2,V Kohli,JD Unadkat,Anuj Rawat,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304064,2,8,3,V Kohli,JD Unadkat,Anuj Rawat,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304064,2,8,4,V Kohli,JD Unadkat,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,8,6,V Kohli,JD Unadkat,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,9,1,V Kohli,KA Pollard,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,9,4,V Kohli,KA Pollard,Anuj Rawat,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304064,2,9,5,V Kohli,KA Pollard,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,10,3,V Kohli,M Ashwin,Anuj Rawat,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304064,2,10,4,V Kohli,M Ashwin,Anuj Rawat,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304064,2,10,5,V Kohli,M Ashwin,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,11,1,V Kohli,Basil Thampi,Anuj Rawat,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304064,2,11,2,V Kohli,Basil Thampi,Anuj Rawat,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304064,2,11,3,V Kohli,Basil Thampi,Anuj Rawat,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304064,2,11,4,V Kohli,Basil Thampi,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,12,1,V Kohli,JD Unadkat,Anuj Rawat,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304064,2,12,2,V Kohli,JD Unadkat,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,12,4,V Kohli,JD Unadkat,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,13,2,V Kohli,JJ Bumrah,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,13,4,V Kohli,JJ Bumrah,Anuj Rawat,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304064,2,13,5,V Kohli,JJ Bumrah,Anuj Rawat,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304064,2,13,6,V Kohli,JJ Bumrah,Anuj Rawat,,3,0,3,0,0,,,,Royal Challengers Bangalore
+1304064,2,14,1,V Kohli,Basil Thampi,Anuj Rawat,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304064,2,14,2,V Kohli,Basil Thampi,Anuj Rawat,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304064,2,14,3,V Kohli,Basil Thampi,Anuj Rawat,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304064,2,14,4,V Kohli,Basil Thampi,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,14,6,V Kohli,Basil Thampi,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,15,1,V Kohli,KA Pollard,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,15,3,V Kohli,KA Pollard,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,16,4,V Kohli,JD Unadkat,Anuj Rawat,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304064,2,16,5,V Kohli,JD Unadkat,Anuj Rawat,,1,0,1,0,1,Anuj Rawat,run out,Ramandeep Singh,Royal Challengers Bangalore
+1304064,2,16,6,V Kohli,JD Unadkat,KD Karthik,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,17,1,V Kohli,JJ Bumrah,KD Karthik,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304064,2,17,2,V Kohli,JJ Bumrah,KD Karthik,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304064,2,17,4,V Kohli,JJ Bumrah,KD Karthik,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304064,2,17,5,V Kohli,JJ Bumrah,KD Karthik,,3,0,3,0,0,,,,Royal Challengers Bangalore
+1304064,2,18,1,V Kohli,D Brevis,KD Karthik,,0,0,0,0,1,V Kohli,lbw,,Royal Challengers Bangalore
+1304068,2,2,6,V Kohli,M Theekshana,Anuj Rawat,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304068,2,3,5,V Kohli,MM Ali,Anuj Rawat,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304068,2,4,1,V Kohli,Mukesh Choudhary,Anuj Rawat,,0,0,0,0,1,V Kohli,caught,S Dube,Royal Challengers Bangalore
+1304073,1,1,2,V Kohli,SN Thakur,F du Plessis,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304073,1,1,3,V Kohli,SN Thakur,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304073,1,2,1,V Kohli,KK Ahmed,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304073,1,3,1,V Kohli,AR Patel,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304073,1,3,3,V Kohli,AR Patel,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304073,1,4,1,V Kohli,KK Ahmed,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304073,1,4,3,V Kohli,KK Ahmed,GJ Maxwell,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304073,1,4,4,V Kohli,KK Ahmed,GJ Maxwell,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304073,1,4,5,V Kohli,KK Ahmed,GJ Maxwell,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304073,1,4,6,V Kohli,KK Ahmed,GJ Maxwell,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304073,1,5,4,V Kohli,Mustafizur Rahman,GJ Maxwell,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304073,1,5,5,V Kohli,Mustafizur Rahman,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304073,1,6,1,V Kohli,SN Thakur,GJ Maxwell,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304073,1,6,2,V Kohli,SN Thakur,GJ Maxwell,,0,0,0,0,1,V Kohli,run out,Lalit Yadav,Royal Challengers Bangalore
+1304077,1,0,7,V Kohli,PVD Chameera,F du Plessis,,0,0,0,0,1,V Kohli,caught,DJ Hooda,Royal Challengers Bangalore
+1304082,1,1,3,V Kohli,M Jansen,Anuj Rawat,,0,0,0,0,1,V Kohli,caught,AK Markram,Royal Challengers Bangalore
+1304085,2,0,1,V Kohli,TA Boult,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304085,2,0,2,V Kohli,TA Boult,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304085,2,0,3,V Kohli,TA Boult,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304085,2,0,4,V Kohli,TA Boult,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304085,2,0,5,V Kohli,TA Boult,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304085,2,0,6,V Kohli,TA Boult,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304085,2,1,1,V Kohli,M Prasidh Krishna,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304085,2,1,2,V Kohli,M Prasidh Krishna,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304085,2,1,3,V Kohli,M Prasidh Krishna,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304085,2,1,4,V Kohli,M Prasidh Krishna,F du Plessis,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1304085,2,1,5,V Kohli,M Prasidh Krishna,F du Plessis,,0,0,0,0,1,V Kohli,caught,R Parag,Royal Challengers Bangalore
+1304089,1,0,1,V Kohli,Mohammed Shami,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,0,2,V Kohli,Mohammed Shami,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,0,3,V Kohli,Mohammed Shami,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304089,1,0,4,V Kohli,Mohammed Shami,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304089,1,0,5,V Kohli,Mohammed Shami,F du Plessis,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,0,6,V Kohli,Mohammed Shami,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,1,1,V Kohli,PJ Sangwan,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,1,2,V Kohli,PJ Sangwan,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,2,1,V Kohli,Mohammed Shami,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,2,2,V Kohli,Mohammed Shami,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,2,3,V Kohli,Mohammed Shami,RM Patidar,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304089,1,2,4,V Kohli,Mohammed Shami,RM Patidar,legbyes,0,1,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,3,4,V Kohli,PJ Sangwan,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,3,5,V Kohli,PJ Sangwan,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,3,6,V Kohli,PJ Sangwan,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,4,1,V Kohli,AS Joseph,RM Patidar,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304089,1,4,2,V Kohli,AS Joseph,RM Patidar,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304089,1,4,3,V Kohli,AS Joseph,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,4,4,V Kohli,AS Joseph,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,5,1,V Kohli,PJ Sangwan,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,5,4,V Kohli,PJ Sangwan,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,5,6,V Kohli,PJ Sangwan,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,6,1,V Kohli,Rashid Khan,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,6,3,V Kohli,Rashid Khan,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,6,5,V Kohli,Rashid Khan,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,6,6,V Kohli,Rashid Khan,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,7,1,V Kohli,LH Ferguson,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,7,2,V Kohli,LH Ferguson,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,7,3,V Kohli,LH Ferguson,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,7,4,V Kohli,LH Ferguson,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,7,5,V Kohli,LH Ferguson,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,8,1,V Kohli,Rashid Khan,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,8,4,V Kohli,Rashid Khan,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,8,5,V Kohli,Rashid Khan,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,9,1,V Kohli,LH Ferguson,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,9,2,V Kohli,LH Ferguson,RM Patidar,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1304089,1,9,3,V Kohli,LH Ferguson,RM Patidar,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304089,1,9,4,V Kohli,LH Ferguson,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,9,5,V Kohli,LH Ferguson,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,10,1,V Kohli,AS Joseph,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,10,2,V Kohli,AS Joseph,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,10,6,V Kohli,AS Joseph,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304089,1,11,2,V Kohli,Rashid Khan,RM Patidar,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304089,1,11,3,V Kohli,Rashid Khan,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,11,5,V Kohli,Rashid Khan,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,12,3,V Kohli,Mohammed Shami,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,12,5,V Kohli,Mohammed Shami,RM Patidar,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304089,1,12,6,V Kohli,Mohammed Shami,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,13,1,V Kohli,LH Ferguson,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,13,3,V Kohli,LH Ferguson,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,15,3,V Kohli,AS Joseph,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,15,5,V Kohli,AS Joseph,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,16,1,V Kohli,Mohammed Shami,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304089,1,16,4,V Kohli,Mohammed Shami,GJ Maxwell,,0,0,0,0,1,V Kohli,bowled,,Royal Challengers Bangalore
+1304095,1,0,1,V Kohli,Mukesh Choudhary,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304095,1,0,3,V Kohli,Mukesh Choudhary,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,0,4,V Kohli,Mukesh Choudhary,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,0,5,V Kohli,Mukesh Choudhary,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304095,1,0,6,V Kohli,Mukesh Choudhary,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,1,3,V Kohli,Simarjeet Singh,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,1,4,V Kohli,Simarjeet Singh,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304095,1,1,5,V Kohli,Simarjeet Singh,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,1,6,V Kohli,Simarjeet Singh,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,1,7,V Kohli,Simarjeet Singh,F du Plessis,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304095,1,2,4,V Kohli,Mukesh Choudhary,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,2,5,V Kohli,Mukesh Choudhary,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,2,6,V Kohli,Mukesh Choudhary,F du Plessis,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1304095,1,2,7,V Kohli,Mukesh Choudhary,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,3,4,V Kohli,Simarjeet Singh,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,3,5,V Kohli,Simarjeet Singh,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,3,6,V Kohli,Simarjeet Singh,F du Plessis,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1304095,1,5,1,V Kohli,M Theekshana,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304095,1,5,3,V Kohli,M Theekshana,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304095,1,5,5,V Kohli,M Theekshana,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304095,1,6,2,V Kohli,RA Jadeja,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304095,1,6,4,V Kohli,RA Jadeja,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,6,5,V Kohli,RA Jadeja,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304095,1,7,4,V Kohli,MM Ali,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304095,1,7,6,V Kohli,MM Ali,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304095,1,8,1,V Kohli,RA Jadeja,GJ Maxwell,legbyes,0,4,4,0,0,,,,Royal Challengers Bangalore
+1304095,1,8,2,V Kohli,RA Jadeja,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304095,1,8,4,V Kohli,RA Jadeja,GJ Maxwell,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,8,5,V Kohli,RA Jadeja,GJ Maxwell,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304095,1,8,6,V Kohli,RA Jadeja,GJ Maxwell,,0,0,0,0,1,GJ Maxwell,run out,RV Uthappa,Royal Challengers Bangalore
+1304095,1,9,1,V Kohli,MM Ali,MK Lomror,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304095,1,9,3,V Kohli,MM Ali,MK Lomror,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,9,4,V Kohli,MM Ali,MK Lomror,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304095,1,9,5,V Kohli,MM Ali,MK Lomror,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1304095,1,9,6,V Kohli,MM Ali,MK Lomror,,0,0,0,0,1,V Kohli,bowled,,Royal Challengers Bangalore
+1304100,1,0,1,V Kohli,J Suchith,F du Plessis,,0,0,0,0,1,V Kohli,caught,KS Williamson,Royal Challengers Bangalore
+1304106,2,0,1,V Kohli,Harpreet Brar,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304106,2,0,5,V Kohli,Harpreet Brar,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304106,2,0,6,V Kohli,Harpreet Brar,F du Plessis,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1304106,2,0,7,V Kohli,Harpreet Brar,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304106,2,1,2,V Kohli,Arshdeep Singh,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304106,2,1,3,V Kohli,Arshdeep Singh,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304106,2,1,4,V Kohli,Arshdeep Singh,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304106,2,1,5,V Kohli,Arshdeep Singh,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304106,2,1,6,V Kohli,Arshdeep Singh,F du Plessis,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1304106,2,1,7,V Kohli,Arshdeep Singh,F du Plessis,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304106,2,2,3,V Kohli,Harpreet Brar,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304106,2,2,4,V Kohli,Harpreet Brar,F du Plessis,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1304106,2,2,5,V Kohli,Harpreet Brar,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304106,2,2,6,V Kohli,Harpreet Brar,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304106,2,3,1,V Kohli,K Rabada,F du Plessis,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304106,2,3,2,V Kohli,K Rabada,F du Plessis,,0,0,0,0,1,V Kohli,caught,RD Chahar,Royal Challengers Bangalore
+1304113,2,0,1,V Kohli,Mohammed Shami,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,1,1,V Kohli,HH Pandya,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,1,4,V Kohli,HH Pandya,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,1,5,V Kohli,HH Pandya,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,2,1,V Kohli,Mohammed Shami,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,2,2,V Kohli,Mohammed Shami,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304113,2,2,3,V Kohli,Mohammed Shami,F du Plessis,wides,0,5,5,0,0,,,,Royal Challengers Bangalore
+1304113,2,2,4,V Kohli,Mohammed Shami,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,2,5,V Kohli,Mohammed Shami,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304113,2,2,6,V Kohli,Mohammed Shami,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,3,1,V Kohli,HH Pandya,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,3,2,V Kohli,HH Pandya,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304113,2,3,3,V Kohli,HH Pandya,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304113,2,3,4,V Kohli,HH Pandya,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,3,5,V Kohli,HH Pandya,F du Plessis,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,3,6,V Kohli,HH Pandya,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,4,1,V Kohli,Rashid Khan,F du Plessis,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1304113,2,4,2,V Kohli,Rashid Khan,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,4,4,V Kohli,Rashid Khan,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304113,2,4,5,V Kohli,Rashid Khan,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,5,1,V Kohli,Yash Dayal,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,5,2,V Kohli,Yash Dayal,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,5,3,V Kohli,Yash Dayal,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304113,2,5,4,V Kohli,Yash Dayal,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,5,5,V Kohli,Yash Dayal,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,6,2,V Kohli,R Sai Kishore,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,6,3,V Kohli,R Sai Kishore,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,6,5,V Kohli,R Sai Kishore,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,7,1,V Kohli,Yash Dayal,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304113,2,7,2,V Kohli,Yash Dayal,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,7,4,V Kohli,Yash Dayal,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,8,1,V Kohli,R Sai Kishore,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,8,5,V Kohli,R Sai Kishore,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,8,6,V Kohli,R Sai Kishore,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,9,1,V Kohli,Rashid Khan,F du Plessis,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1304113,2,9,2,V Kohli,Rashid Khan,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,9,4,V Kohli,Rashid Khan,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,10,2,V Kohli,R Sai Kishore,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,10,3,V Kohli,R Sai Kishore,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,10,5,V Kohli,R Sai Kishore,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,11,1,V Kohli,LH Ferguson,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,11,4,V Kohli,LH Ferguson,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,12,1,V Kohli,R Sai Kishore,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,12,2,V Kohli,R Sai Kishore,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,12,3,V Kohli,R Sai Kishore,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,12,4,V Kohli,R Sai Kishore,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,12,6,V Kohli,R Sai Kishore,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,13,1,V Kohli,Yash Dayal,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,13,4,V Kohli,Yash Dayal,F du Plessis,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1304113,2,13,5,V Kohli,Yash Dayal,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,14,2,V Kohli,Rashid Khan,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,14,6,V Kohli,Rashid Khan,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,15,1,V Kohli,HH Pandya,GJ Maxwell,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1304113,2,16,2,V Kohli,Rashid Khan,GJ Maxwell,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1304113,2,16,3,V Kohli,Rashid Khan,GJ Maxwell,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1304113,2,16,4,V Kohli,Rashid Khan,GJ Maxwell,,0,0,0,0,1,V Kohli,stumped,MS Wade,Royal Challengers Bangalore
+1312198,1,0,1,V Kohli,Mohsin Khan,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312198,1,0,2,V Kohli,Mohsin Khan,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312198,1,0,3,V Kohli,Mohsin Khan,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312198,1,0,4,V Kohli,Mohsin Khan,F du Plessis,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1312198,1,0,5,V Kohli,Mohsin Khan,F du Plessis,,3,0,3,0,0,,,,Royal Challengers Bangalore
+1312198,1,1,1,V Kohli,PVD Chameera,RM Patidar,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1312198,1,1,2,V Kohli,PVD Chameera,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312198,1,1,3,V Kohli,PVD Chameera,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312198,1,1,4,V Kohli,PVD Chameera,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1312198,1,2,1,V Kohli,Mohsin Khan,RM Patidar,,4,0,4,0,0,,,,Royal Challengers Bangalore
+1312198,1,2,2,V Kohli,Mohsin Khan,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312198,1,2,3,V Kohli,Mohsin Khan,RM Patidar,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1312198,1,2,4,V Kohli,Mohsin Khan,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312198,1,2,5,V Kohli,Mohsin Khan,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1312198,1,3,1,V Kohli,KH Pandya,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1312198,1,3,4,V Kohli,KH Pandya,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312198,1,3,5,V Kohli,KH Pandya,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1312198,1,5,1,V Kohli,KH Pandya,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1312198,1,6,5,V Kohli,PVD Chameera,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1312198,1,7,1,V Kohli,Ravi Bishnoi,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1312198,1,7,3,V Kohli,Ravi Bishnoi,RM Patidar,wides,0,1,1,0,0,,,,Royal Challengers Bangalore
+1312198,1,7,4,V Kohli,Ravi Bishnoi,RM Patidar,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1312198,1,7,5,V Kohli,Ravi Bishnoi,RM Patidar,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1312198,1,7,7,V Kohli,Ravi Bishnoi,RM Patidar,,2,0,2,0,0,,,,Royal Challengers Bangalore
+1312198,1,8,2,V Kohli,Avesh Khan,RM Patidar,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312198,1,8,3,V Kohli,Avesh Khan,RM Patidar,,0,0,0,0,1,V Kohli,caught,Mohsin Khan,Royal Challengers Bangalore
+1312199,1,0,1,V Kohli,TA Boult,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312199,1,0,2,V Kohli,TA Boult,F du Plessis,,1,0,1,0,0,,,,Royal Challengers Bangalore
+1312199,1,0,4,V Kohli,TA Boult,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312199,1,0,5,V Kohli,TA Boult,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312199,1,0,6,V Kohli,TA Boult,F du Plessis,,6,0,6,0,0,,,,Royal Challengers Bangalore
+1312199,1,1,3,V Kohli,M Prasidh Krishna,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312199,1,1,4,V Kohli,M Prasidh Krishna,F du Plessis,,0,0,0,0,0,,,,Royal Challengers Bangalore
+1312199,1,1,5,V Kohli,M Prasidh Krishna,F du Plessis,,0,0,0,0,1,V Kohli,caught,SV Samson,Royal Challengers Bangalore
